@@ -1,0 +1,11 @@
+int majeur = 1
+
+if(majeur)
+{
+    printf("Tu es un majeur")
+}
+else
+{
+    printf("Tu es un mineur")
+}
+return 0 ;
